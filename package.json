@@ -1,0 +1,29 @@
+{
+  "name": "judith_bridge",
+  "version": "0.0.1",
+  "description": "Package for communicate robot and different applications write with other frameworks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amasiero/judith_bridge.git"
+  },
+  "keywords": [
+    "judith",
+    "robocup",
+    "athome",
+    "robofei"
+  ],
+  "author": "andrey masiero",
+  "license": "GNU License",
+  "bugs": {
+    "url": "https://github.com/amasiero/judith_bridge/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "socket.io": "~1.4.6",
+    "socket.io-client": "~1.4.6"
+  }
+}
